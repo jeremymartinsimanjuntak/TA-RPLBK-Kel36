@@ -1,0 +1,37 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Jaket Kulit",
+        "ukur": "M, L, dan XL",
+        "deskripsi" : "Silahkan order gan!"
+
+    }, {
+        "id": 2,
+        "name": "Hoodie",
+        "ukur": "S, M, dan L",
+        "deskripsi2" : "Selanjutnya, jenis jaket yang wajib ada di lemari pria yaitu hoodie. Simpelnya, hoodie merupakan sweater yang mempunyai penutup kepala. Hoodie seringkali punyai design letak kantong atau saku di depan, dan punyai tali untuk menata penutup kepalanya. Jenis jaket ini juga tidak memiliki risleting maupun kancing di tengahnya. Jadi, cara menggunakannya pun seperti menggunakan kaos pada umumnya. Biasanya, jaket hoodie digunakan untuk cuaca dingin atau sekedar untuk bergaya."
+    },
+    {
+        "id": 3,
+        "name": "Jaket Denim",
+        "ukur": "L, XL, dan XXL",
+        "deskripsi3" : "Jenis jaket pria yang sering ditemui yaitu jaket kulit. Rupanya eksistensi jaket yang satu ini memang tidak pernah tergerus jaman. Bahkan, kebanyakan dari pria tentu saja mempunyai jaket jenis ini. Sesuai dengan namanya, jaket ini terbuat dari kulit binatang. Selain itu, ciri khas dari jaket ini yaitu mempunyai risleting di depan dan sabuk leher hingga bawah. Karena memberikan sensasi hangat, jaket kulit sendiri sangat cocok kalian gunakan saat cuaca dingin. Selain itu, bagi kalian penggemar touring menggunakan sepeda motor, jaket kulit sangat cocok digunakan untuk menambah penampilan kalian makin stylish."
+    },{
+        "id": 4,
+        "name": "Jaket Boomber",
+        "ukur": "S, L, dan XL",
+        "deskripsi4" : "Jenis jaket pria yang sering ditemui yaitu jaket kulit. Rupanya eksistensi jaket yang satu ini memang tidak pernah tergerus jaman. Bahkan, kebanyakan dari pria tentu saja mempunyai jaket jenis ini. Sesuai dengan namanya, jaket ini terbuat dari kulit binatang. Selain itu, ciri khas dari jaket ini yaitu mempunyai risleting di depan dan sabuk leher hingga bawah. Karena memberikan sensasi hangat, jaket kulit sendiri sangat cocok kalian gunakan saat cuaca dingin. Selain itu, bagi kalian penggemar touring menggunakan sepeda motor, jaket kulit sangat cocok digunakan untuk menambah penampilan kalian makin stylish."
+    },
+    {
+        "id": 5,
+        "name": "Jaket Varka",
+        "ukur": "S, M, dan XL",
+        "deskripsi5" : "Jenis jaket pria yang sering ditemui yaitu jaket kulit. Rupanya eksistensi jaket yang satu ini memang tidak pernah tergerus jaman. Bahkan, kebanyakan dari pria tentu saja mempunyai jaket jenis ini. Sesuai dengan namanya, jaket ini terbuat dari kulit binatang. Selain itu, ciri khas dari jaket ini yaitu mempunyai risleting di depan dan sabuk leher hingga bawah. Karena memberikan sensasi hangat, jaket kulit sendiri sangat cocok kalian gunakan saat cuaca dingin. Selain itu, bagi kalian penggemar touring menggunakan sepeda motor, jaket kulit sangat cocok digunakan untuk menambah penampilan kalian makin stylish."
+    },     {
+        "id": 6,
+        "name": "Jaket Parasut",
+        "ukur": "M, L, dan XL",
+        "deskripsi6" : "Jenis jaket pria yang sering ditemui yaitu jaket kulit. Rupanya eksistensi jaket yang satu ini memang tidak pernah tergerus jaman. Bahkan, kebanyakan dari pria tentu saja mempunyai jaket jenis ini. Sesuai dengan namanya, jaket ini terbuat dari kulit binatang. Selain itu, ciri khas dari jaket ini yaitu mempunyai risleting di depan dan sabuk leher hingga bawah. Karena memberikan sensasi hangat, jaket kulit sendiri sangat cocok kalian gunakan saat cuaca dingin. Selain itu, bagi kalian penggemar touring menggunakan sepeda motor, jaket kulit sangat cocok digunakan untuk menambah penampilan kalian makin stylish."
+    }]
+    
+}
