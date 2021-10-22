@@ -4,7 +4,15 @@ import Id from "./Id";
 import Misc from "./Misc";
 import Logo from "./toko jaket.jpg";
 
-
+//root scope
+console.log("Selamat Datang di");
+let a = 0;
+function q2() {
+// child scope
+a = 36;
+}
+q2();
+console.log("Kelompok " + a);
 
 class Dashboard extends Component {
     componentDidMount() {
