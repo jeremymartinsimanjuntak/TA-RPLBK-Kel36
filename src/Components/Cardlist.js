@@ -10,6 +10,7 @@ import '../App.css';
 
 import 'antd/dist/antd.css';
 
+
 const themes = {
   blue: {
     text: "rgb(97, 218, 251)",
@@ -76,8 +77,9 @@ export default function Cardlist() {
     setIsModalVisible(false);
   };
 
-  const action=() => {
-alert ('Berhasil!');
+  const action= async () => {
+await alert ('Berhasil!');
+await setIsModalVisible(false);
   };
 
   useEffect(() => {
